@@ -1,0 +1,14 @@
+nav > div{
+    width: 33%;
+}
+ul{
+    display: flex;
+    list-style-type: none;
+}
+img{
+    width: 100px;
+}
+nav{
+    position: absolute;
+    width: 100%;
+}
