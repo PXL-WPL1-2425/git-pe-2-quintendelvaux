@@ -23,3 +23,12 @@ li{
     padding-left: 30px;
     padding-right: 30px;
 }
+.action_btn{
+    background: red;
+    border-radius: 20px;
+    padding: 5px;
+    padding-right: 15px;
+    padding-left: 15px;
+    color: black;
+
+}
